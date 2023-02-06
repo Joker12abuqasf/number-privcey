@@ -43,9 +43,8 @@
 </li>
 </ul>
 
-
  <h1>Advertisement and Other Third Parties</h1>
-<p><strong>Ads</strong>
+<p>
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["we"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
   </p>
   
