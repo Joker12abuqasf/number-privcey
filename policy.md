@@ -150,5 +150,5 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: alshrmanyywns039@gmail.com</li>
+<li>By email: metacode@meta-code-ye.com</li>
 </ul>
